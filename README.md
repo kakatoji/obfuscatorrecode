@@ -1,2 +1,2 @@
 # obfuscatorrecode
-obf frsi askumar india
+obf version askumar india
